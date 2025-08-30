@@ -5,13 +5,13 @@
   "desc2": "2. Early access to new updates.",
   "desc3": "3. Priority customer support.",
   "cancel_text": "Cancel",
-  "subscribe_text": "Like to Us",
+  "subscribe_text": "Update",
   "subscribe_url": "https://www.fb.com/saman2200",
   "bg_color": "#FFFFFF",
   "title_color": "#000000",
   "desc_color": "#333333",
   "button1_color": "#252b3b",
-  "button2_color": "#00ffff",
+  "button2_color": "#252b3b",
   "show_cancel_button": false,
   "show_subscribe_button": true
 }
