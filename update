@@ -1,5 +1,5 @@
          {
-  "enabled": false,
+  "enabled": true,
   "title": "Subscription Required",
   "desc1": "1. Premium features will be unlocked.",
   "desc2": "2. Early access to new updates.",
@@ -12,6 +12,6 @@
   "desc_color": "#333333",
   "button1_color": "#252b3b",
   "button2_color": "#252b3b",
-  "show_cancel_button": false,
+  "show_cancel_button": true,
   "show_subscribe_button": true
 }
