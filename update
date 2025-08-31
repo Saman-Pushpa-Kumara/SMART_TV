@@ -11,7 +11,7 @@
   "title_color": "#000000",
   "desc_color": "#333333",
   "button1_color": "#888888",
-  "button2_color": "#4CAF50",
+  "button2_color": "#ff0000",
 
   "show_cancel_button": true,
   "show_subscribe_button": true,
