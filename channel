@@ -1,1 +1,587 @@
-test 
+[
+   {
+    "𝐋𝐎𝐂𝐀𝐋 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
+      {
+        "name": "𝚁𝚞𝚙𝚊𝚠𝚊𝚑𝚒𝚗𝚒",
+        "link": "https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png"
+      },
+      {
+        "name": "𝙸𝚃𝙽",
+        "link": "https://edge2-moblive.yuppcdn.net/transsd/smil:itn43.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png"
+      },
+      {
+        "name": "𝚃𝚅 𝙳𝚎𝚛𝚊𝚗𝚊",
+        "link": "https://edge2-moblive.yuppcdn.net/transhd2/smil:detv04.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/006.png"
+      },
+      {
+        "name": "𝚂𝚒𝚛𝚊𝚜𝚊 𝚃𝚅",
+        "link": "http://edge2-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/008.png"
+      },
+      {
+        "name": "𝚂𝚠𝚊𝚛𝚗𝚊𝚠𝚊𝚑𝚒𝚗𝚒",
+        "link": "https://edge2-moblive.yuppcdn.net/transsd/smil:swani06.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/007.png"
+      },
+      {
+        "name": "𝚂𝚒𝚢𝚊𝚝𝚑𝚊 𝚃𝚅",
+        "link": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png"
+      },
+      {
+        "name": "𝙷𝚒𝚛𝚞 𝚃𝚅",
+        "link": "https://edge4-moblive.yuppcdn.net/transhd2/smil:hitv17.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/011.png"
+      },
+      {
+        "name": "𝚃𝚅 𝙾𝙽𝙴",
+        "link": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:tv111.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/010.png"
+      },
+
+
+
+      {
+        "name": "𝚂𝚞𝚙𝚙𝚛𝚒𝚖 𝚃𝚅",
+        "link": "https://edge3-moblive.yuppcdn.net/transsd/smil:tnl12.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/supreme_01.jpg"
+      },
+      {
+        "name": "𝙲𝚑𝚊𝚛𝚊𝚗𝚊",
+        "link": "https://edge4-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/playlist.m3u8",
+        "image": "https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/djwqoh.png"
+      },
+      {
+        "name": "𝚅𝚊𝚜𝚊𝚗𝚝𝚑𝚊𝚖 𝚃𝚅",
+        "link": "https://edge3-moblive.yuppcdn.net/trans1sd/smil:vatv07.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/005.png"
+      },
+      {
+        "name": "𝙽𝚎𝚝𝚑𝚛𝚊 𝚃𝚅",
+        "link": "https://edge2-moblive.yuppcdn.net/transsd/smil:chii02.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/nethra.jpg"
+      },
+      {
+        "name": "𝙲𝚑𝚊𝚗𝚗𝚎𝚕 𝙴𝚢𝚎",
+        "link": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:nettv15.smil/playlist.m3u8",
+        "image": "https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/fhuhab.png"
+      },
+      {
+        "name": "𝚂𝚑𝚊𝚔𝚝𝚑𝚒 𝚃𝚅",
+        "link": "https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/009.png"
+      },
+      {
+        "name": "𝙹𝚊𝚢𝚊 𝚃𝚅",
+        "link": "https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/playlist.m3u8",
+        "image": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3065/entry_id/66fd0f2bda094e80af54a4174eca007c_12/version/2/width/210/height/210/quality/80"
+      }
+    ],
+    "𝐄𝐍𝐓𝐄𝐑𝐓𝐀𝐈𝐍𝐌𝐄𝐍𝐓 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
+      {
+        "name": "𝙼𝚞𝚜𝚒𝚌 𝙿𝚕𝚞𝚜",
+        "link": "https://edge3-moblive.yuppcdn.net/drm1/smil:musicplustvdrm.smil/playlist.m3u8",
+        "image": "https://mobond.yuppcdn.net/peotvgo/320/180/content/common/channel/logos/music-television.png"
+      },
+      {
+        "name": "𝙲𝚘𝚘𝚔𝚒𝚗𝚐 𝙲𝚑𝚊𝚗𝚗𝚎𝚕",
+        "link": "http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Cooking_Channel.svg"
+      },
+      {
+        "name": "𝙵𝚘𝚘𝚍 𝙽𝚎𝚝𝚠𝚘𝚛𝚔",
+        "link": "http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png"
+      },
+     
+      {
+        "name": "𝙵𝚊𝚜𝚑𝚒𝚘𝚗 𝚃𝚅",
+        "link": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fashion_TV_logo_2017.svg/1200px-Fashion_TV_logo_2017.svg.png"
+      },
+      
+     
+{
+        "name": "𝙼𝚃𝚅",
+        "link": "https://fl3.moveonjoy.com/MTV/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_(brand_version).svg/1200px-MTV_2021_(brand_version).svg.png"
+      },
+
+ 
+{
+        "name": "𝙹𝚞𝚜𝚝 𝚏𝚘𝚛 𝙻𝚊𝚞𝚐𝚑𝚜",
+        "link": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/1200px-Just_For_Laughs_Gags.png"
+      },
+
+{
+        "name": "𝚂𝚒𝚛𝚒𝚙𝚙𝚕𝚒 𝚃𝚅",
+        "link": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg"
+      },
+
+
+{
+        "name": "𝙺𝙱𝚂 𝚆𝚘𝚛𝚕𝚍",
+        "link": "http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&usqp=CAU"
+      },
+
+
+{
+        "name": "𝙽𝙷𝙺 𝚆𝚘𝚛𝚕𝚍",
+        "link": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png"
+      },
+{
+        "name": "𝚁𝚊𝚓 𝚃𝚅 𝚃𝚊𝚖𝚒𝚕",
+        "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8?fbclid=IwY2xjawMf-dxleHRuA2FlbQIxMQABHiH2VlzfKQ-2C94StN8LcjrnFFw9hEf7NteXl3kXGxZOzKuYDho-ZlGdC9ef_aem_hq40o58L-snDe4AqPMz5gA",
+        "image": "https://static.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png/revision/latest?cb=20160804101552"
+      },
+
+
+{
+        "name": "𝚁𝚊𝚓 𝚃𝚅 𝙼𝚞𝚜𝚒𝚡",
+        "link": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8?fbclid=IwY2xjawMgnFFleHRuA2FlbQIxMQABHuHTqOBQ6PwwPek-OoxBtArsgQ3CWiRA3W2HoYX1FRpJmeOdKEVNo926I6i-_aem_kGVeCgAfWpDw_F-QN4lPqg",
+        "image": "https://static.wikia.nocookie.net/logopedia/images/5/57/Raj_Musix_Tamil.jpeg/revision/latest?cb=20191227071716"
+      },
+{
+        "name": "𝚉𝚘𝚘𝚖 𝚃𝚅",
+        "link": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8?fbclid=IwY2xjawMgqfVleHRuA2FlbQIxMQABHksxt-3hlQG46MJ96ZBlHCqhFAV2QtMpnx9nIpzh0V7ySrJwPS_xGWwwkzDb_aem_izWP4X1b3_Ea61VsjvCPAg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2rWDKHqVxHXp_AKmPre0VbOMd_vywg8TwuA&s"
+      },
+{
+        "name": "9𝚇𝙼",
+        "link": "https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8?fbclid=IwY2xjawMgqoNleHRuA2FlbQIxMQABHkalKDlS0ZhWxJKmFx6lO1hDUtYIq_eBY4PbSEOtpB6C0DT86WP4feBTgnPu_aem_f7uYvJPdIrHvbFF1T12xxQ",
+        "image": "https://e7.pngegg.com/pngimages/986/104/png-clipart-9xm-9x-media-music-television-live-music-miscellaneous-television.png"
+      }
+
+
+],
+      
+    "𝐊𝐈𝐃𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
+      {
+        "name": "𝙱𝚊𝚋𝚢𝙵𝚒𝚛𝚜𝚝",
+        "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
+        "image": "https://cdn.kidscreen.com/wp/wp-content/uploads/2015/01/BabyFirstNewLogo.jpg"
+      },
+
+
+{
+        "name": "𝙻𝚎𝚐𝚘 𝙲𝚑𝚊𝚗𝚗𝚎𝚕",
+        "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536",
+        "image": "https://static.wikia.nocookie.net/tvfan/images/8/86/LEGO_logo.svg.png/revision/latest?cb=20160712231242"
+      },
+
+
+      {
+        "name": "𝙲𝚊𝚛𝚝𝚘𝚘𝚗 𝙽𝚎𝚝𝚠𝚘𝚛𝚔",
+        "link": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8",
+        "image": "https://logoeps.com/wp-content/uploads/2013/01/cartoon-network-logo-vector.png"
+      },
+
+{
+        "name": "𝙴𝙱𝚂 𝙺𝚒𝚍𝚜",
+        "link": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/2560px-EBS_KIDS.svg.png"
+      },
+      {
+        "name": "𝙽𝚒𝚔𝚔𝚢 𝚃𝚅",
+        "link": "https://edge3-moblive.yuppcdn.net/drm/smil:planetfundrm.smil/playlist.m3u8",
+        "image": "https://www.lyngsat.com/logo/tv/nn/nikky-uk.png"
+      },
+      {
+        "name": "𝚉𝚘𝚘 𝙼𝚘𝚘",
+        "link": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kPYtVBm2U4p0iTEoqOzeoO1FcpqH3HBR1g&s"
+      },
+      {
+        "name": "𝙳𝚒𝚜𝚗𝚎𝚢 𝙹𝚁",
+        "link": "http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8",
+        "image": "https://static.wikitide.net/avidwiki/thumb/b/ba/Disney_Jr._(June_27,_2024-October_25,_2024).png/534px-Disney_Jr._(June_27,_2024-October_25,_2024).png"
+      },
+      {
+        "name": "𝙳𝚒𝚜𝚗𝚎𝚢 𝙲𝚑𝚊𝚗𝚗𝚎𝚕",
+        "link": "http://fl5.moveonjoy.com/DISNEY/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png"
+      },
+      {
+        "name": "𝙳𝚒𝚜𝚗𝚎𝚢 𝚇𝙳",
+        "link": "http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1200px-2015_Disney_XD_logo.svg.png"
+      },
+      {
+        "name": "𝙿𝙱𝚂 𝙺𝚒𝚍𝚜",
+        "link": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_(2022).svg/1200px-PBS_Kids_logo_(2022).svg.png"
+      },
+      {
+        "name": "𝙽𝚒𝚔 𝙹𝚁",
+        "link": "http://fl3.moveonjoy.com/NICK_JR/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/1200px-Nick_Jr._logo_2023.svg.png"
+      },
+      {
+        "name": "𝙽𝚒𝚌𝚔𝚎𝚕𝚘𝚍𝚎𝚘𝚗",
+        "link": "http://fl1.moveonjoy.com/NICKELODEON/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/1200px-Nickelodeon_2023_logo.svg.png"
+      },
+      
+
+{
+        "name": "𝙳𝚛𝚎𝚊𝚖𝚠𝚘𝚛𝚔𝚜",
+        "link": "https://tv.ddns.vn/tv/dreamworks/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png"
+      },
+{
+        "name": "𝙳𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝙵𝚒𝚕𝚖",
+        "link": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
+        "image": "https://image.roku.com/developer_channels/prod/a00eae4d7ddccd1ae26bf7e86fd3ddd1866e75bcc685bb86a5071a1f970ae054.png"
+      }
+
+
+    ],
+
+    "𝐍𝐄𝐖𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
+      {
+        "name": "𝙰𝚍𝚊 𝙳𝚎𝚛𝚊𝚗𝚊 24",
+        "link": "https://edge3-moblive.yuppcdn.net/transsd/smil:addetv13.smil/playlist.m3u8",
+        "image": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/014.png"
+      },
+
+{
+        "name": "𝙱𝙱𝙲 𝙽𝚎𝚠𝚜",
+        "link": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1024px-BBC_News_2019.svg.png"
+      },
+
+{
+        "name": "𝙲𝙽𝙽",
+        "link": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png"
+      },
+{
+        "name": "𝙵𝚛𝚊𝚗𝚌𝚎 24",
+        "link": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png"
+      },
+
+{
+        "name": "𝙰𝙱𝙲 𝙰𝚄𝚂𝚃𝚁𝙰𝙻𝙸𝙰",
+        "link": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
+        "image": "https://www.pngfind.com/pngs/m/258-2582008_no-logo-abc-australia-logo-png-transparent-png.png"
+      },
+
+{
+        "name": "𝙰𝚕 𝙹𝚊𝚣𝚎𝚎𝚛𝚊",
+        "link": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/de/6/60/Al_Jazeera_Mubasher_Misr.png"
+      },
+
+
+{
+        "name": "𝚂𝚔𝚢 𝙽𝚎𝚠𝚜",
+        "link": "https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8",
+        "image": "https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo-2001.png"
+      }
+
+
+
+
+    ],
+    "𝐒𝐏𝐎𝐑𝐓𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
+      {
+        "name": "𝚂𝚝𝚊𝚛 𝚂𝚙𝚘𝚛𝚝𝚜 1",
+        "link": "https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPyIkYLZUfPpl0Dkyu7lXIB_FBzo-KKDPOdA&s"
+      },
+      {
+        "name": "𝙱𝚒𝚕𝚕𝚒𝚊𝚛𝚍 𝚃𝚅",
+        "link": "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8",
+        "image": "https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/billiardtv.png"
+      },
+
+
+{
+        "name": "𝚃 𝚂𝚙𝚘𝚛𝚝𝚜 𝙷𝙳",
+        "link": "http://103.15.140.138/tsports/index.m3u8",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_7tL52KQxnw_q4sc1DtHLpTGoSBOsjAMshQ&s"
+      },
+      {
+        "name": "𝚂𝚔𝚢 𝚂𝚙𝚘𝚛𝚝𝚜 1",
+        "link": "http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bQokmb2_lgo6F0KKXCWp0gZBDxtqSHibfQ&s"
+      },
+      
+     
+      {
+        "name": "𝚃𝚎𝚗 𝙲𝚛𝚒𝚌𝚔𝚎𝚝",
+        "link": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMhVJFXkNYK7trsuhRe58ZK1-pQLUhD3T6w&s"
+      },
+      {
+        "name": "𝚁𝚎𝚍𝚋𝚞𝚕𝚕 𝚃𝚅",
+        "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+        "image": "https://bb-media.com/wp-content/uploads/2024/06/lf2ladJ3XvUsPuhgduCkfJhUTd1cloSzhcrCHIb4p2-7GPm5ZLyocneeaSmvkijb3Mg.png"
+      },
+     
+      {
+        "name": "𝙵𝙸𝙵𝙰 +",
+        "link": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+        "image": "https://cdn.plus.fifa.com/images/web/logoFIFA.png"
+      },
+
+      {
+        "name": "𝚂𝚘𝚗𝚢 𝚂𝚙𝚘𝚛𝚝 1",
+        "link": "https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8",
+        "image": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png"
+      },
+
+      
+
+{
+        "name": "𝚂𝚘𝚗𝚢 𝚂𝚙𝚘𝚛𝚝 2",
+        "link": "https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8",
+        "image": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png"
+      },
+
+
+
+
+
+      {
+        "name": "𝚂𝚘𝚗𝚢 𝚂𝚙𝚘𝚛𝚝 3",
+        "link": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8",
+        "image": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png"
+      },
+
+
+
+
+      {
+        "name": "𝚂𝚘𝚗𝚢 𝚂𝚙𝚘𝚛𝚝 4",
+        "link": "https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8",
+        "image": "https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/340?cb=20221025090401"
+      },
+
+      {
+        "name": "𝚂𝚘𝚗𝚢 𝚂𝚙𝚘𝚛𝚝 5",
+        "link": "https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8",
+        "image": "https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/200?cb=20221025091902"
+      },
+
+
+      {
+        "name": "𝙼𝙻𝙱 𝙽𝚎𝚝𝚠𝚘𝚛𝚔",
+        "link": "https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/ac/MLBNetworkLogo.svg"
+      },
+{
+        "name": "𝙵𝚘𝚡 𝙲𝚛𝚒𝚌𝚔𝚎𝚝",
+        "link": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8?fbclid=IwY2xjawMgntNleHRuA2FlbQIxMQABHtVnGzke25_s8h42r5w3fT6i8CEl6pDB5gjGuI5LMqgh6TjDj4dcVENnulG__aem_TyEBxDooQ7zUhcs1NNJ-YA",
+        "image": "https://pbs.twimg.com/profile_images/1633191289356431361/OdKOXawp_400x400.jpg"
+      },
+{
+        "name": "𝚆𝚒𝚕𝚕𝚘𝚠 𝙲𝚛𝚒𝚌𝚔𝚎𝚝",
+        "link": "https://fl3.moveonjoy.com/WILLOW_CRICKET/index.m3u8?fbclid=IwY2xjawMgnz5leHRuA2FlbQIxMQABHiwc9yYsG-ZqUZ9X57TaEtNzKtqVT_5L-K-bdHo-N4JxV7oPgiA9D2d9EsZ8_aem_pUV7kDNC6DKnr9hDVwY2mg",
+        "image": "https://images.sftcdn.net/images/t_app-icon-m/p/baec2118-565e-4c9a-b7c7-fa5e017f0a10/2036685842/willow-watch-live-cricket-logo"
+      },
+{
+        "name": "𝙴𝚞𝚛𝚘 𝚂𝚙𝚘𝚛𝚝",
+        "link": "https://filoox.vercel.app/live/167585.m3u8?fbclid=IwY2xjawMgn9NleHRuA2FlbQIxMQABHqZYILFvQpUhV4hP8lw7hiGAeNeIX7DRfA9P_5FJGV7TyOSrZzQVja5rkrJ1_aem_mM2Q4ED62ATS29sD1i3EgA",
+        "image": "https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png"
+      }
+
+
+      
+
+
+    ],
+
+    "𝐌𝐎𝐕𝐈𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
+      {
+        "name": "&𝙵𝚕𝚒𝚡",
+        "link": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/manifest.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/&flix_logo.png"
+      },
+     
+      {
+        "name": "𝙷𝙱𝙾 𝙲𝚘𝚖𝚎𝚍𝚢",
+        "link": "http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png"
+      },
+      {
+        "name": "𝙷𝙱𝙾 𝙵𝚊𝚖𝚒𝚕𝚢",
+        "link": "http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"
+      },
+      {
+        "name": "𝙷𝙱𝙾",
+        "link": "http://fl3.moveonjoy.com/HBO/index.m3u8",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZpXsOKJI35eHMOeDpyzsSi47qv_R7F8e9Q&s"
+      },
+      {
+        "name": "𝙷𝙱𝙾 𝚉𝚘𝚗𝚎",
+        "link": "http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_logo.png/640px-HBO_Zone_logo.png"
+      },
+      
+    
+      {
+        "name": "𝙰𝚇𝙽",
+        "link": "http://125hvt.ddns.net:21585/axn/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png"
+      },
+      
+      {
+        "name": "𝙿𝚊𝚛𝚊𝚖𝚘𝚞𝚗𝚝 𝙼𝚘𝚟𝚒𝚎",
+        "link": "https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
+        "image": "https://yt3.googleusercontent.com/by3BZnFc-zLRixmYTSPNxY05UZtAN2vOguvs1ocqvjJTlLnpnhfjM_8ToHoGlOBMFByPsLi7=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "𝙰𝙼𝙲",
+        "link": "http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
+        "image": "https://m.media-amazon.com/images/I/61Rqt3thwTL.png"
+      },
+      {
+        "name": "𝙵𝚇 𝙼𝚘𝚟𝚒𝚎",
+        "link": "http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/2560px-FX_Movies_logo.svg.png"
+      },
+      {
+        "name": "𝙲𝚒𝚗𝚎𝙼𝚊𝚡",
+        "link": "http://fl3.moveonjoy.com/CINEMAX/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"
+      },
+      {
+        "name": "𝚂𝚝𝚊𝚛𝚣",
+        "link": "http://fl3.moveonjoy.com/STARZ/index.m3u8",
+        "image": "https://yt3.googleusercontent.com/Q_vwnQ-ml3qjT9WU1Ji6aiPyHTqw2-DRE0selV1F2KdXnV8YI-pQb4r55bcEnXNUP3ja2YYK=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "𝚂𝚑𝚘𝚠𝚃𝚒𝚖𝚎",
+        "link": "http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Showtime.svg"
+      },
+      {
+        "name": "𝙼𝚘𝚟𝚒𝚎𝚂𝚙𝚑𝚎𝚛𝚎",
+        "link": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8AM-noVbhkM3MZuBRIS39pnITH4ESWYFp1Q&s"
+      },
+      
+   
+{
+        "name": "𝙼𝚊𝚍𝚎 𝚒𝚗 𝙷𝚘𝚕𝚕𝚢𝚠𝚘𝚘𝚍",
+        "link": "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8",
+        "image": "https://pbs.twimg.com/profile_images/700470249162825730/7o8nGc8n_400x400.jpg"
+      },
+
+
+{
+        "name": "𝙼𝙶𝙼 𝙷𝙳",
+        "link": "https://v2.catcast.tv/content/44051/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/it/e/ec/The_MGM_Channel.png"
+      },
+
+
+
+{
+        "name": "𝚂𝚔𝚢 𝙲𝚒𝚗𝚎𝚖𝚊 𝙵𝚊𝚖𝚒𝚕𝚢",
+        "link": "https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535776-1/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Sky_Cinema_Family.png"
+      },
+
+
+{
+        "name": "𝚂𝚝𝚊𝚛 𝚃𝚊𝚖𝚒𝚕",
+        "link": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKtOGKmITNfhqt2EbtC1nxUkWqCpE42L95qA&s"
+      },
+
+
+
+{
+        "name": "𝙺𝚊𝚕𝚊𝚒𝚐𝚗𝚊𝚛",
+        "link": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg"
+      },
+
+
+{
+        "name": "𝙱4𝚄 𝙼𝚘𝚟𝚒𝚎𝚜",
+        "link": "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8",
+        "image": "https://i.imgur.com/M9kMFJl.png"
+      },
+
+{
+        "name": "𝙼𝚘𝚟𝚒𝚎𝙱𝚘𝚡",
+        "link": "https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8",
+        "image": "https://i.imgur.com/xeO1Zb4.png"
+      },
+{
+        "name": "𝙼𝚒𝚛𝚊𝚖𝚊𝚡",
+        "link": "https://a70d5913cb70475b8104ec98bf35723a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-798-MIRAMAXMOVIES-TCLTV/mt/tcltv/798/hls/master/playlist.m3u8?ads.fbclid=IwY2xjawMgoYdleHRuA2FlbQIxMQABHks1vzXtPWLwjW1Sed6TPb6PzVt5yCbTo81j2nbdLkaA2jiK7ZL5dTacfkWJ_aem_fRZOH1s0ToCjivg7vJ7DCA",
+        "image": "https://static.wikitide.net/avidwiki/thumb/6/66/Miramax_(2002)_(From_-_Dirty_Pretty_Things_trailer).png/350px-Miramax_(2002)_(From_-_Dirty_Pretty_Things_trailer).png"
+      },
+{
+        "name": "𝚂𝚝𝚊𝚛 𝙼𝚘𝚟𝚒𝚎𝚜 𝚂𝚎𝚕𝚎𝚌𝚝",
+        "link": "http://185.243.154.6/live/play/WVVWRlMwSm9aM1puWldoTGFHbFNURWxCUjJkblowSlFVbmxvYm5sclowY3pSRWg0UkhJMGJ6UnNORDA9/277323",
+        "image": "https://static.wikia.nocookie.net/dreamlogos/images/a/af/Star_Movies_Select_AN_2021.svg/revision/latest/scale-to-width-down/938?cb=20220602225430"
+      }
+
+
+
+
+    ],
+    "𝐄𝐃𝐔𝐓𝐀𝐈𝐍𝐌𝐄𝐍𝐓 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
+      {
+        "name": "𝙱𝙱𝙲 𝙴𝚊𝚛𝚝𝚑",
+        "link": "https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BBC_Earth.svg/250px-BBC_Earth.svg.png"
+      },
+      {
+        "name": "𝚃𝚛𝚊𝚟𝚎𝚕 𝙲𝚑𝚊𝚗𝚗𝚎𝚕",
+        "link": "http://fl1.moveonjoy.com/Travel_Channel/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Travel_channel.png"
+      },
+      {
+        "name": "𝙰𝚗𝚒𝚖𝚊𝚕 𝙿𝚕𝚊𝚗𝚎𝚝",
+        "link": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png"
+      },
+      {
+        "name": "𝙳𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝚢 𝙲𝚑𝚊𝚗𝚗𝚎𝚕",
+        "link": "http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8",
+        "image": "https://cdn.freebiesupply.com/logos/large/2x/discovery-channel-logo-png-transparent.png"
+      },
+
+{
+        "name": "Моя Планета",
+        "link": "http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8",
+        "image": "https://toplogos.ru/images/logo-moya-planeta.jpg"
+      },
+{
+        "name": "𝙾𝚞𝚝𝚜𝚒𝚍𝚎 𝚃𝚅",
+        "link": "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
+        "image": "https://images.seeklogo.com/logo-png/50/1/outside-tv-logo-png_seeklogo-509597.png"
+      },
+{
+        "name": "𝙶𝚘 𝚄𝚂𝙰",
+        "link": "https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8",
+        "image": "https://i.imgur.com/x90ALip.png"
+      },
+
+{
+        "name": "𝚃𝚛𝚊𝚟𝚎𝚕𝚇𝙿",
+        "link": "https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8",
+        "image": "https://i.imgur.com/8KQirah.png"
+      }
+
+
+
+    ]
+  }
+]
+ 
