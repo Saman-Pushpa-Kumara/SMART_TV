@@ -1,14 +1,14 @@
 {
   "enable": true,
-  "online_enable": true,
+  "online_enable": false,
   
   "title": "New Update Available!",
   
-  "desc1": "✨ Exciting new features added",
+  "desc1": "✨ Fix full screen light off",
   "desc2": "🐞 Important bug fixes included",
   "desc3": "🚀 Performance improvements for smoother experience",
 
-  "show_cancel_button": false,
+  "show_cancel_button": true,
   "show_subscribe_button": true,
   "bg_color": "#FFFFFF",
   "title_color": "#000000",
