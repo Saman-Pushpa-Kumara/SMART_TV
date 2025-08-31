@@ -1,17 +1,22 @@
-         {
-  "enabled": true,
-  "title": "Subscription Required",
-  "desc1": "🔐 Premium features will be unlocked.",
-  "desc2": "🔆 Early access to new updates.",
-  "desc3": "✨ Priority customer support.",
-  "cancel_text": "Cancel",
-  "subscribe_text": "Like",
-  "subscribe_url": "https://www.fb.com/saman2200",
-  "bg_color": "#2C2C2C",
+{
+  "dialog_enable": true,
+  "online_enable": true,
+  
+  "title": "New Update Available!",
+  
+  "desc1": "✨ Exciting new features added",
+  "desc2": "🐞 Important bug fixes included",
+  "desc3": "🚀 Performance improvements for smoother experience",
+
+  "show_cancel_button": false,
+  "show_subscribe_button": true,
+  "bg_color": "#FFFFFF",
   "title_color": "#000000",
   "desc_color": "#333333",
   "button1_color": "#888888",
-  "button2_color": "#2EBEF6",
-  "show_cancel_button": true,
-  "show_subscribe_button": true
+  "button2_color": "#4CAF50",
+  "cancel_text": "Later",
+  "subscribe_text": "Update Now",
+
+  "download_url": "https://t.me/sakib01994"
 }
