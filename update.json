@@ -1,17 +1,17 @@
-{
-  "enabled": false,
+         {
+  "enabled": true,
   "title": "Subscription Required",
-  "desc1": "1. Premium features will be unlocked.",
-  "desc2": "2. Early access to new updates.",
-  "desc3": "3. Priority customer support.",
+  "desc1": "🔴 Premium features will be unlocked.",
+  "desc2": "🟢 Early access to new updates.",
+  "desc3": "🔵 Priority customer support.",
   "cancel_text": "Cancel",
-  "subscribe_text": "Subscribe",
-  "subscribe_url": "https://www.fb.com/saman2200",
+  "subscribe_text": "Follow me",
+  "subscribe_url": "https://www.fb.com/spk2200",
   "bg_color": "#FFFFFF",
   "title_color": "#000000",
   "desc_color": "#333333",
   "button1_color": "#888888",
   "button2_color": "#4CAF50",
-  "show_cancel_button": false,
+  "show_cancel_button": true,
   "show_subscribe_button": true
 }
