@@ -1,17 +1,14 @@
-         {
-  "enabled": false,
-  "title": "Page Recommend Required",
-  "desc1": "Page එකග ගිහින් recommend එකක් දීලා සහායෝගේ ලබා දෙන්න. ස්තූතී..",
-  "desc2": "Go to the page, give it a recommendation, and give it a helping hand. Thanks..",
-  "desc3": "Перейдите на страницу, дайте ей рекомендацию и помогите ей. Спасибо..",
-  "cancel_text": "Cancel",
-  "subscribe_text": "Recommend me",
-  "subscribe_url": "https://www.facebook.com/SAMAN2200",
-  "bg_color": "#FFFFFF",
-  "title_color": "#000000",
-  "desc_color": "#333333",
-  "button1_color": "#888888",
-  "button2_color": "#4CAF50",
-  "show_cancel_button": true,
-  "show_subscribe_button": true
+{
+  "versionCode": 9,
+  "versionName": "5.1",
+  "apkSize": 9,
+  "enabledDark": true,
+  "forceUp": true,
+  "whatIsNew": [
+    "Performance improved and some bugs fixed.",
+    "Android 14 support",
+    "Loading speed improved",
+    "Notification display issues fixed"
+  ],
+  "apkUrl": "https://www.dropbox.com/scl/fi/34hizhwjmut91zpz7xjp7/SyriaTalkPlus_Ultra.apk?rlkey=8gr6vebbisezu1718qv0so2qe&st=ct9jk73g&dl=1"
 }
