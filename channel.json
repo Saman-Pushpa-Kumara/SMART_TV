@@ -103,17 +103,7 @@
         "link": "https://edge3-moblive.yuppcdn.net/drm1/smil:musicplustvdrm.smil/playlist.m3u8",
         "image": "https://mobond.yuppcdn.net/peotvgo/320/180/content/common/channel/logos/music-television.png"
       },
-      {
-        "name": "𝙲𝚘𝚘𝚔𝚒𝚗𝚐 𝙲𝚑𝚊𝚗𝚗𝚎𝚕",
-        "link": "http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Cooking_Channel.svg"
-      },
-      {
-        "name": "𝙵𝚘𝚘𝚍 𝙽𝚎𝚝𝚠𝚘𝚛𝚔",
-        "link": "http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png"
-      },
-     
+    
  
 
 {
@@ -138,9 +128,9 @@
       
      
 {
-        "name": "𝙼𝚃𝚅",
-        "link": "https://fl3.moveonjoy.com/MTV/index.m3u8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_(brand_version).svg/1200px-MTV_2021_(brand_version).svg.png"
+        "name": "𝙼𝚃𝚅 𝙼𝚞𝚜𝚒𝚌",
+        "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc8-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f02a8ef1-7c07-44f9-9197-c9b197dbc277",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREtOEOoJkwomZyj6TpenQG8VO-btRK0lRJI3wF1pCI1g&s=10"
       },
 
  
