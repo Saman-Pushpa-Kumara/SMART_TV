@@ -234,18 +234,18 @@
       },
       {
         "name": "𝙳𝚒𝚜𝚗𝚎𝚢 𝙹𝚁",
-        "link": "http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8",
+        "link": "http://116.90.120.149:8000/play/a0b3/index.m3u8",
         "image": "https://static.wikitide.net/avidwiki/thumb/b/ba/Disney_Jr._(June_27,_2024-October_25,_2024).png/534px-Disney_Jr._(June_27,_2024-October_25,_2024).png"
       },
       {
         "name": "𝙳𝚒𝚜𝚗𝚎𝚢 𝙲𝚑𝚊𝚗𝚗𝚎𝚕",
-        "link": "http://fl5.moveonjoy.com/DISNEY/index.m3u8",
+        "link": "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png"
       },
       {
-        "name": "𝙳𝚒𝚜𝚗𝚎𝚢 𝚇𝙳",
-        "link": "http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1200px-2015_Disney_XD_logo.svg.png"
+        "name": "𝙳𝚘𝚛𝚊 𝚃𝚅",
+        "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949",
+        "image": "https://i.imgur.com/zJuSbmU.png"
       },
       {
         "name": "𝙿𝙱𝚂 𝙺𝚒𝚍𝚜",
@@ -254,7 +254,7 @@
       },
       {
         "name": "𝙽𝚒𝚔 𝙹𝚁",
-        "link": "http://fl3.moveonjoy.com/NICK_JR/index.m3u8",
+        "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/1200px-Nick_Jr._logo_2023.svg.png"
       },
       {
