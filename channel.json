@@ -101,6 +101,12 @@
         "name": "𝚅𝚎𝚛𝚋𝚞𝚖 𝚃𝚅",
         "link": "https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3xeBRoSPkXp4jzZRNRo4C2epPRMGe_pddxfrOrQNIpQ&s=10"
+      },
+
+{
+        "name": "𝙼𝙼𝙲 𝚃𝚅",
+        "link": "https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8",
+        "image": "https://i.imgur.com/0MwrSYE.png"
       }
 
 
