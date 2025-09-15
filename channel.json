@@ -417,11 +417,7 @@
       },
 
 
-      {
-        "name": "𝙼𝙻𝙱 𝙽𝚎𝚝𝚠𝚘𝚛𝚔",
-        "link": "https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8",
-        "image": "https://upload.wikimedia.org/wikipedia/en/a/ac/MLBNetworkLogo.svg"
-      },
+      
 
 
 
@@ -654,6 +650,13 @@
         "name": "𝚃𝚛𝚊𝚟𝚎𝚕𝚇𝙿",
         "link": "https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8",
         "image": "https://i.imgur.com/8KQirah.png"
+      },
+
+
+{
+        "name": "𝙲𝙶𝚃𝙽 𝙳𝚘𝚌𝚞𝚖𝚎𝚗𝚝",
+        "link": "https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png"
       }
 
 
