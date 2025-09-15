@@ -95,6 +95,12 @@
         "name": "𝙳𝚊𝚜𝚊𝚝𝚑𝚊 𝚃𝚅",
         "link": "https://edge3-moblive.yuppcdn.net/drm/smil:knowledgetvdrm.smil/playlist.m3u8",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFEa9IaMh8wgGfs5NVBO-QlvN6sJsf2KjlFZ2sWZjJkA&s"
+      },
+
+{
+        "name": "𝚅𝚎𝚛𝚋𝚞𝚖 𝚃𝚅",
+        "link": "https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3xeBRoSPkXp4jzZRNRo4C2epPRMGe_pddxfrOrQNIpQ&s=10"
       }
 
 
@@ -512,7 +518,7 @@
       {
         "name": "24 𝙼𝚘𝚟𝚒𝚎'𝚜",
         "link": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145/variant/22099471.m3u8",
-        "image": "https://dn721901.ca.archive.org/0/items/Movies24/movies 24.png"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgBci3vPb9AR9DtJ5TSHfI6A1c-3tAMpWVmw8OwRmIcjHOVe8mXHm&s=10"
       },
       {
         "name": "24 𝙱𝚘𝚡",
