@@ -510,6 +510,32 @@
     ],
 
     "𝐌𝐎𝐕𝐈𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋": [
+
+
+      {
+        "name": "𝙷𝙱𝙾 𝙲𝚘𝚖𝚎𝚍𝚢",
+        "link": "http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8",
+        "image": "https://cpng.pikpng.com/pngl/s/131-1311748_hbo-comedy-logo-png-download-hbo-comedy-channel.png"
+      },
+      {
+        "name": "𝙷𝙱𝙾 𝙵𝚊𝚖𝚒𝚕𝚢",
+        "link": "http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/HBO_Family_Asia_logo.svg"
+      },
+      {
+        "name": "𝙷𝙱𝙾",
+        "link": "http://fl3.moveonjoy.com/HBO/index.m3u8",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZpXsOKJI35eHMOeDpyzsSi47qv_R7F8e9Q&s"
+      },
+      {
+        "name": "𝙷𝙱𝙾 𝚉𝚘𝚗𝚎",
+        "link": "http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_logo.png/640px-HBO_Zone_logo.png"
+      },
+
+
+
+
       {
         "name": "&𝙵𝚕𝚒𝚡",
         "link": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/manifest.m3u8",
