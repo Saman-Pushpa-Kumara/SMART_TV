@@ -1,9 +1,10 @@
 {
-  "showDialog": true,
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
-  "title": "UPDATE AVAILABLE",
-  "message": "Get the newest features and improvements.",
-  "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://play.google.com/store/apps/details?id=com.yourapp.packagename"
+    "showDialog": true,
+    "title": "නව යාවත්කාලීනයක් ඇත!",
+    "message": "2.0 වන සංස්කරණය නව විශේෂාංග සමඟ මෙහි ඇත. යාවත්කාලීන කරන්න!",
+    "updateButtonText": "දැන් යාවත්කාලීන කරන්න",
+    "showUpdateButton": true,
+    "cancelButtonText": "පසුව",
+    "showCancelButton": true,
+    "updateUrl": "https://your-app-download-link.com"
 }
