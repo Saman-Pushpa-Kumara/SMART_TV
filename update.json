@@ -1,9 +1,10 @@
 {
-    "Title": "Update Available⚡",
-    "versionCode": "4",
-    "versionName": "4.0.0",
-    "updateSize": "100 MB",
-    "releaseDate": "Sep 5, 2025",
-    "Msg": "🎉 What's New:\n• Improved user interface\n• Added new features\n• Bug fixes and performance improvements\n• Enhanced security",
-    "downloadLink": "https://www.fb.com/saman2200"
+  "credit": "SPK MODS",
+  "show_dialog": false,
+  "title": "Update Available",
+  "subtitle": "✨ New Version Release ✨",
+  "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
+  "btn_update": "Update Now",
+  "btn_exit": "Exit",
+  "link": "https://www.fb.com/saman2200"
 }
