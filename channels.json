@@ -468,9 +468,22 @@
 
 
 {
-        "name": "𝚂𝚘𝚕𝚑 𝚂𝚙𝚘𝚛𝚝𝚜 ",
-        "link": "https://wo.cma.footballii.ir/hls2/solh.m3u8",
-        "image": "https://afghanlive.tv/wp-content/uploads/2025/05/solh-sports-tv-live-afghanistan.jpg"
+        "name": "𝙼𝙱𝙻",
+        "link": "https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8",
+        "image": "https://i.imgur.com/ym3su2J.png"
+      },
+
+
+{
+        "name": "𝚃𝚎𝚗𝚗𝚒𝚜 𝙲𝚑𝚊𝚗𝚗𝚎𝚕",
+        "link": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+        "image": "https://i.imgur.com/tsljAnY.png"
+      },
+
+{
+        "name": "𝙶𝚘𝚕𝚏 𝚃𝚅",
+        "link": "https://30a-tv.com/feeds/720p/53.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png"
       }
 
 
