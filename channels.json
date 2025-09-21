@@ -312,6 +312,24 @@
         "link": "http://103.73.107.122:3255/TSportsHD/index.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png"
       },
+
+
+{
+        "name": "Ten Sports",
+        "link": "https://ditto.tgaadi.workers.dev/304.m3u8",
+        "image": "https://images.seeklogo.com/logo-png/18/1/ten-sports-logo-png_seeklogo-189992.png"
+      },
+
+
+
+{
+        "name": "P TV",
+        "link": "https://ditto.tgaadi.workers.dev/303.m3u8",
+        "image": "https://cdn6.aptoide.com/imgs/d/b/e/dbe3b48f1cae5af4710e96377580ab1f_icon.png"
+      },
+
+
+
       {
         "name": "Billiard TV",
         "link": "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8",
