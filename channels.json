@@ -462,7 +462,20 @@
         "name": "Bein Sports 1",
         "link": "http://176.119.29.7:80/0c55573d-12d8-43af-823b-25c94d67b190.m3u8?md5=V6ymFri4EVXELp66KZLYVA&expires=1750309589",
         "image": "https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png"
+      },
+
+ {
+        "name": "Lemar TV",
+        "link": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
+        "image": "https://mobygroup.com/sites/default/files/lemar-1.jpg"
       }
+
+
+
+
+
+
+
     ],
     "MOVIES CHANNEL": [
       {
@@ -575,6 +588,15 @@
         "link": "https://linear-181.frequency.stream/dist/24i/181/hls/master/playlist.m3u8",
         "image": "https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Revry_Brasil_476x476circle.png?$ORIGIN_PNG$"
       }
+{
+        "name": "AVA Family",
+        "link": "https://familyhls.avatv.live/hls/stream.m3u8",
+        "image": "https://salintv.com/wp-content/uploads/2025/01/ava_family_online-300x171.jpg"
+      }
+
+
+
+
     ],
     "EDUTAINMENT CHANNEL": [
       {
