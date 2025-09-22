@@ -418,6 +418,16 @@
         "link": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
         "image": "https://cdn.plus.fifa.com/images/web/logoFIFA.png"
       },
+
+
+
+{
+        "name": "Astro Cricket",
+        "link": "http://filex.me:8080/live/000003/000003/451415.m3u8",
+        "image": "https://epgpages.s3.amazonaws.com/pre_prod/images/Astro_Cricket_Logo.png"
+      },
+
+
       {
         "name": "Willow Cricket",
         "link": "https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
