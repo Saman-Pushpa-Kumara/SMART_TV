@@ -183,6 +183,13 @@
         "name": "Trace Urban",
         "link": "https://lightning-traceurban-samsungau.amagi.tv/playlist360p.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Trace_Urban_logo_2010.svg"
+      },
+
+
+{
+        "name": "Showbox",
+        "link": "https://epiconvh.akamaized.net/live/showbox/master_720.m3u8",
+        "image": "https://www.orionworld.com/theme/102114/en/assets/images/sub/orion/showbox_img01.jpg"
       }
 
 
@@ -610,7 +617,27 @@
         "name": "Rakuten TV",
         "link": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/453edfbf-3f8a-4322-80c0-2ade96e72406/4.m3u8",
         "image": "https://play-lh.googleusercontent.com/-3iQgi1MJkgsihOYW8qYV3go11dvDbj_CnMfUdLyIWOscqFs7DdiUFSR36bdadFseWY"
+      },
+
+
+
+{
+        "name": "24Hours Movie",
+        "link": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
+        "image": "https://yt3.googleusercontent.com/ytc/AIdro_lviADATtgh9yyPY8IbEdQedQyYpHjVT32AkdE1vkxeQQ=s900-c-k-c0x00ffffff-no-rj"
+      },
+
+{
+        "name": "I Film",
+        "link": "https://metafilmhls.wns.live/hls/stream.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Film1.png/250px-Film1.png"
       }
+
+
+
+
+
+
 
     ],
 
@@ -683,7 +710,17 @@
         "name": "Dasatha TV",
         "link": "https://edge3-moblive.yuppcdn.net/drm/smil:knowledgetvdrm.smil/playlist.m3u8",
         "image": "https://i.imgur.com/TFUFxOB.jpeg"
+      },
+
+
+{
+        "name": "Go 2 Travel",
+        "link": "https://go2thls.wns.live/hls/stream.m3u8",
+        "image": "https://pbs.twimg.com/profile_images/1085092737232191489/o_TQehNV_400x400.jpg"
       }
+
+
+
     ]
   }
 ]
