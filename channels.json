@@ -293,11 +293,7 @@
         "link": "https://edge3-moblive.yuppcdn.net/drm/smil:planetfundrm.smil/playlist.m3u8",
         "image": "https://www.lyngsat.com/logo/tv/nn/nikky-uk.png"
       },
-      {
-        "name": "Pogo",
-        "link": "https://mini.allinonereborn.online/jiotv-in/app/ts_live_542.m3u8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png"
-      },
+   
       {
         "name": "Zoo Moo",
         "link": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
@@ -327,12 +323,8 @@
         "name": "Nick JR",
         "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/1200px-Nick_Jr._logo_2023.svg.png"
-      },
-      {
-        "name": "Nickelodeon",
-        "link": "http://fl1.moveonjoy.com/NICKELODEON/index.m3u8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/1200px-Nickelodeon_2023_logo.svg.png"
       }
+      
 
 
 
