@@ -168,6 +168,11 @@
         "name": "Lemar TV",
         "link": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png"
+      },
+{
+        "name": "Astro Vaanavil",
+        "link": "https://live20.bozztv.com/akamaissh101/ssh101/sungo545/playlist.m3u8",
+        "image": "https://static.wikia.nocookie.net/logopedia/images/f/f0/VaanavilHD_v2.png/revision/latest?cb=20240923123152"
       }
 
 
@@ -216,8 +221,23 @@
         "name": "Showbox",
         "link": "https://epiconvh.akamaized.net/live/showbox/master_720.m3u8",
         "image": "https://www.orionworld.com/theme/102114/en/assets/images/sub/orion/showbox_img01.jpg"
-      }
+      },
 
+{
+        "name": "THT Music",
+        "link": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19223/index.m3u8",
+        "image": "https://play-lh.googleusercontent.com/kA-BbMoXdQn39s52linxNnQJK8y_U-tMkiH9pFJmIIrPZKnVlhIhW7EygUfQO3irAP4"
+      },
+{
+        "name": "Now Rock",
+        "link": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19197/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png"
+      },
+{
+        "name": "MTV Hits",
+        "link": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19198/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/960px-MTV_Hits_2021.svg.png"
+      }
    
 
 
@@ -620,11 +640,7 @@
         "image": "https://image.roku.com/developer_channels/prod/a00eae4d7ddccd1ae26bf7e86fd3ddd1866e75bcc685bb86a5071a1f970ae054.png"
       },
     
-{
-        "name": "AVA Family",
-        "link": "https://familyhls.avatv.live/hls/stream.m3u8",
-        "image": "https://salintv.com/wp-content/uploads/2025/01/ava_family_online-300x171.jpg"
-      },
+
 
 
 {
@@ -645,6 +661,12 @@
         "name": "I Film",
         "link": "https://metafilmhls.wns.live/hls/stream.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Film1.png/250px-Film1.png"
+      },
+
+{
+        "name": "Astro Thangathirai",
+        "link": "https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Astro_Thangathirai_%282024%29.png"
       }
 
 
