@@ -93,6 +93,13 @@
         "name": "Jaya TV",
         "link": "https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/playlist.m3u8",
         "image": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3065/entry_id/66fd0f2bda094e80af54a4174eca007c_12/version/2/width/210/height/210/quality/80"
+      },
+
+
+{
+        "name": "Verbum TV",
+        "link": "https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8",
+        "image": "https://i.imgur.com/YEKEaB4.png"
       }
 
 
