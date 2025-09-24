@@ -190,8 +190,24 @@
         "name": "Showbox",
         "link": "https://epiconvh.akamaized.net/live/showbox/master_720.m3u8",
         "image": "https://www.orionworld.com/theme/102114/en/assets/images/sub/orion/showbox_img01.jpg"
-      }
+      },
 
+   {
+        "name": "NHK World",
+        "link": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png"
+      },
+      {
+        "name": "KBS World",
+        "link": "http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8",
+        "image": "https://images.seeklogo.com/logo-png/22/1/kbs-world-logo-png_seeklogo-222695.png"
+      },
+
+{
+        "name": "Lemar TV",
+        "link": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png"
+      }
 
 
 
@@ -367,18 +383,8 @@
         "name": "Sky News",
         "link": "https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8",
         "image": "https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo-2001.png"
-      },
-      {
-        "name": "NHK World",
-        "link": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png"
-      },
-      {
-        "name": "KBS World",
-        "link": "http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8",
-        "image": "https://images.seeklogo.com/logo-png/22/1/kbs-world-logo-png_seeklogo-222695.png"
       }
-
+   
 
 
 
@@ -445,11 +451,7 @@
 
 
 
-{
-        "name": "Lemar TV (astro)",
-        "link": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
-        "image": "https://epgpages.s3.amazonaws.com/pre_prod/images/Astro_Cricket_Logo.png"
-      },
+
 
 
 
