@@ -169,6 +169,15 @@
         "link": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png"
       },
+
+
+
+
+{
+        "name": "Tapmad",
+        "link": "http://ip96.uk:8080/live/as/4444/500846.m3u8",
+        "image": "https://vectorseek.com/wp-content/uploads/2023/02/Tapmad-Logo-Vector.jpg"
+      },
 {
         "name": "Astro Vaanavil",
         "link": "https://live20.bozztv.com/akamaissh101/ssh101/sungo545/playlist.m3u8",
@@ -413,6 +422,12 @@
         "name": "Sky News",
         "link": "https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8",
         "image": "https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo-2001.png"
+      },
+
+{
+        "name": "RT News",
+        "link": "https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png"
       }
    
 
@@ -465,6 +480,18 @@
       },
 
 
+{
+        "name": "PK Sports",
+        "link": "https://live20.bozztv.com/akamaissh101/ssh101/pksportshd/chunks.m3u8",
+        "image": "https://www.dishurdu.com/images/PK-Sports-Logo.png"
+      },
+
+
+{
+        "name": "Super Cricket",
+        "link": "http://ip96.uk:8080/live/as/4444/53044.m3u8",
+        "image": "https://r2.thesportsdb.com/images/media/channel/logo/srtijz1643382350.png"
+      },
 
       {
         "name": "PTV Sports",
