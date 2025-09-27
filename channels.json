@@ -162,27 +162,8 @@
         "name": "KBS World",
         "link": "http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8",
         "image": "https://images.seeklogo.com/logo-png/22/1/kbs-world-logo-png_seeklogo-222695.png"
-      },
-
-{
-        "name": "Lemar TV",
-        "link": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
-        "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png"
-      },
-
-
-
-
-{
-        "name": "Tapmad",
-        "link": "http://ip96.uk:8080/live/as/4444/500846.m3u8",
-        "image": "https://vectorseek.com/wp-content/uploads/2023/02/Tapmad-Logo-Vector.jpg"
-      },
-{
-        "name": "Astro Vaanavil",
-        "link": "https://live20.bozztv.com/akamaissh101/ssh101/sungo545/playlist.m3u8",
-        "image": "https://static.wikia.nocookie.net/logopedia/images/f/f0/VaanavilHD_v2.png/revision/latest?cb=20240923123152"
       }
+
 
 
 
@@ -443,54 +424,8 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkZYuKe02gWaKkTJST1akZ3hankkaIxeKM57rgfrLLtEwendw8Cx7TNBq&s=10"
       },
 
-{
-        "name": "Star Sports Select 1",
-        "link": "http://ip96.uk:8080/live/as/4444/52098.m3u8",
-        "image": "https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436"
-      },
-
-
-{
-        "name": "Star Sports Select 2",
-        "link": "http://ip96.uk:8080/live/as/4444/52100.m3u8",
-        "image": "https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646"
-      },
-
-
-
-
-
-
-{
-        "name": "Ten Cricket",
-        "link": "http://ip96.uk:8080/live/as/4444/658436.m3u8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Ten_Cricket.png"
-      },
-
 
       
-      {
-        "name": "Ten Sports",
-        "link": "https://ditto.tgaadi.workers.dev/304.m3u8",
-        "image": "https://images.seeklogo.com/logo-png/18/1/ten-sports-logo-png_seeklogo-189992.png"
-      },
-
-
-
-
-
-{
-        "name": "Super Cricket",
-        "link": "http://ip96.uk:8080/live/as/4444/53044.m3u8",
-        "image": "https://r2.thesportsdb.com/images/media/channel/logo/srtijz1643382350.png"
-      },
-
-      {
-        "name": "PTV Sports",
-        "link": "http://ip96.uk:8080/live/as/4444/250211.m3u8",
-        "image": "https://cdn6.aptoide.com/imgs/d/b/e/dbe3b48f1cae5af4710e96377580ab1f_icon.png"
-      },
-
 
 
       {
@@ -535,11 +470,7 @@
 
 
 
-      {
-        "name": "Willow Cricket",
-        "link": "https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
-        "image": "https://aimages.willow.tv/wlo_logo_200_200.jpg"
-      },
+    
       {
         "name": "Fox Cricket",
         "link": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8?fbclid=IwY2xjawMgntNleHRuA2FlbQIxMQABHtVnGzke25_s8h42r5w3fT6i8CEl6pDB5gjGuI5LMqgh6TjDj4dcVENnulG__aem_TyEBxDooQ7zUhcs1NNJ-YA",
@@ -710,13 +641,9 @@
         "name": "I Film",
         "link": "https://metafilmhls.wns.live/hls/stream.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Film1.png/250px-Film1.png"
-      },
-
-{
-        "name": "Astro Thangathirai",
-        "link": "https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Astro_Thangathirai_%282024%29.png"
       }
+
+
 
 
 
@@ -751,11 +678,7 @@
         "link": "http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8",
         "image": "https://cdn.freebiesupply.com/logos/large/2x/discovery-channel-logo-png-transparent.png"
       },
-      {
-        "name": "Моя Планета",
-        "link": "http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8",
-        "image": "https://toplogos.ru/images/logo-moya-planeta.jpg"
-      },
+      
       {
         "name": "Outside TV",
         "link": "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
