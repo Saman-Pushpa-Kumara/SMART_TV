@@ -227,6 +227,19 @@
         "name": "MTV Hits",
         "link": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19198/index.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/960px-MTV_Hits_2021.svg.png"
+      },
+
+
+{
+        "name": "Trace UK",
+        "link": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png"
+      },
+
+{
+        "name": "YRF Music",
+        "link": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8",
+        "image": "https://yt3.googleusercontent.com/nf15u1K12VXgBLh5HTf0asDF5Fc36RsUICRi8xY1Cs0QhAL_jmtW07wAUdRzrYDBKwv_KIa09Q=s900-c-k-c0x00ffffff-no-rj"
       }
    
 
@@ -506,6 +519,16 @@
         "name": "Bein Sports 1",
         "link": "http://176.119.29.7:80/0c55573d-12d8-43af-823b-25c94d67b190.m3u8?md5=V6ymFri4EVXELp66KZLYVA&expires=1750309589",
         "image": "https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png"
+      },
+
+
+
+
+
+{
+        "name": "Sports First",
+        "link": "https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8",
+        "image": "https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446902rOUCzuiQg4-original-ONOncvfW.png"
       }
 
 
@@ -641,6 +664,12 @@
         "name": "I Film",
         "link": "https://metafilmhls.wns.live/hls/stream.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Film1.png/250px-Film1.png"
+      },
+
+{
+        "name": "Sony Movies",
+        "link": "https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg"
       }
 
 
