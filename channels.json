@@ -100,6 +100,13 @@
         "name": "Verbum TV",
         "link": "https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8",
         "image": "https://i.imgur.com/YEKEaB4.png"
+      },
+
+
+{
+        "name": "Testing",
+        "link": "https://youtube.com/live/6Tz40rRmEQs",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Film1.png/250px-Film1.pn"
       }
 
 
@@ -452,6 +459,27 @@
       },
       
 
+
+{
+        "name": "Ten Cricket",
+        "link": "http://filex.me:8080/live/Qasim1990/1990qasim/658436.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Ten_Cricket.png"
+      },
+
+
+
+{
+        "name": "P TV",
+        "link": "http://filex.me:8080/live/Qasim1990/1990qasim/250211.m3u8",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png"
+      },
+
+
+{
+        "name": "Willow",
+        "link": "https://fl25.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
+        "image": "https://image.winudf.com/v2/image/dHYud2lsbG93dHZfaWNvbl8wX2U3ZWY5NjJm/icon.png?w=312&fakeurl=1"
+      },
 
       {
         "name": "Billiard TV",
