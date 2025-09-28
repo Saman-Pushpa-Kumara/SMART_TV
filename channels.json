@@ -162,6 +162,12 @@
         "name": "KBS World",
         "link": "http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8",
         "image": "https://images.seeklogo.com/logo-png/22/1/kbs-world-logo-png_seeklogo-222695.png"
+      },
+
+{
+        "name": "Astro Vaanavil",
+        "link": "https://live20.bozztv.com/akamaissh101/ssh101/sungo543/playlist.m3u8#8e37333873aae2429a94d98aadbd63679cf7fa58d9104174c87f7829d00ef2cf",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png"
       }
 
 
@@ -438,6 +444,12 @@
       },
 
 
+
+{
+        "name": "Star Sports 3",
+        "link": "http://89.187.189.98/STARSPORTS3/index.m3u8",
+        "image": "https://www.kindpng.com/picc/m/490-4902599_logopedia-star-sport-3-logo-png-transparent-png.png"
+      },
       
 
 
@@ -670,6 +682,18 @@
         "name": "Sony Movies",
         "link": "https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg"
+      },
+
+{
+        "name": "Astro Thangathirai",
+        "link": "https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8?view=tnm3u-addedby=tnm3u",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Astro_Thangathirai_%282024%29.png"
+      },
+
+{
+        "name": "Thai TV",
+        "link": "https://cdn.anystream.uk:8082/thaitv/thailive/playlist.m3u8",
+        "image": "https://thaaitv.com/wp-content/uploads/2024/10/THAAITV-LOGOO.png"
       }
 
 
