@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="si">
+<head>
+  <meta charset="utf-8">
+  <title>Animated Password</title>
+  <style>
+    body {
+      background: radial-gradient(circle at center, #0b0f13 0%, #000 100%);
+      font-family: "Courier New", monospace;
+      color: #00ffcc;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    h2 {
+      color: #77ffe0;
+      margin-bottom: 15px;
+      letter-spacing: 2px;
+    }
+
+    .password-box {
+      background: rgba(0, 255, 153, 0.08);
+      border: 2px solid rgba(0, 255, 153, 0.3);
+      border-radius: 12px;
+      padding: 25px 45px;
+      box-shadow: 0 0 25px rgba(0, 255, 153, 0.3);
+      font-size: 2rem;
+      letter-spacing: 6px;
+      position: relative;
+      overflow: hidden;
+      animation: fadeInBox 0.8s ease forwards;
+    }
+
+    @keyframes fadeInBox {
+      from {opacity: 0; transform: scale(0.8);}
+      to {opacity: 1; transform: scale(1);}
+    }
+
+    .digit {
+      display: inline-block;
+      opacity: 0;
+      transform: translateY(10px);
+      animation: typeIn 0.3s forwards;
+      text-shadow: 0 0 8px #00ff99, 0 0 25px #00ffaa;
+    }
+
+    @keyframes typeIn {
+      0% {opacity: 0; transform: translateY(10px) scale(0.5);}
+      100% {opacity: 1; transform: translateY(0) scale(1);}
+    }
+
+    .glow {
+      animation: neonGlow 1.5s infinite alternate;
+    }
+
+    @keyframes neonGlow {
+      from {text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ff99;}
+      to {text-shadow: 0 0 25px #33ffaa, 0 0 40px #00ffcc;}
+    }
+
+    button {
+      margin-top: 25px;
+      padding: 10px 22px;
+      border: none;
+      border-radius: 6px;
+      background: #00ff99;
+      color: #000;
+      font-weight: bold;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+
+    button:hover {
+      background: #44ffc7;
+      transform: scale(1.05);
+    }
+
+    /* Extra flicker animation for cinematic feel */
+    .flicker {
+      animation: flicker 1.5s infinite;
+    }
+
+    @keyframes flicker {
+      0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {opacity: 1;}
+      20%, 22%, 24%, 55% {opacity: 0.5;}
+    }
+  </style>
+</head>
+<body>
+  <h2>🔐 SYSTEM ACCESS CODE</h2>
+  <div id="passwordBox" class="password-box"></div>
+  <button id="startBtn">Reveal Password</button>
+
+  <script>
+    const password = [4, 4, 4, 4]; // ඔබේ password
+    const box = document.getElementById("passwordBox");
+    const btn = document.getElementById("startBtn");
+
+    function showPassword() {
+      box.innerHTML = "";
+      password.forEach((digit, index) => {
+        const span = document.createElement("span");
+        span.textContent = digit;
+        span.classList.add("digit");
+        span.style.animationDelay = `${index * 0.3}s`;
+        box.appendChild(span);
+      });
+
+      // glow effect add after load
+      setTimeout(() => {
+        document.querySelectorAll(".digit").forEach(d => d.classList.add("glow", "flicker"));
+      }, password.length * 300 + 500);
+    }
+
+    btn.addEventListener("click", showPassword);
+  </script>
+</body>
+</html>
