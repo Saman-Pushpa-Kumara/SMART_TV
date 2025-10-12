@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>Animated Password</title>
-  <style>
+<style>
     body {
       background: radial-gradient(circle at center, #0b0f13 0%, #000 100%);
       font-family: "Courier New", monospace;
