@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>Ultraflix TV Pro - Official Info</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --netflix-red: #E50914;
+            --netflix-black: #000000;
+            --netflix-dark-grey: #141414;
+            --netflix-light-grey: #B3B3B3;
+            --white: #FFFFFF;
+            --card-bg: #181818;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Roboto', 'Poppins', sans-serif;
+        }
+
+        body {
+            background-color: var(--netflix-black);
+            color: var(--white);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* Header Styling */
+        header {
+            padding: 20px 4%;
+            background: linear-gradient(to bottom, rgba(0,0,0,0.8) 0%, transparent 100%);
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+        }
+
+        .logo {
+            color: var(--netflix-red);
+            font-size: 28px;
+            font-weight: bold;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        /* Hero Section */
+        .hero {
+            height: 40vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.9)), url('https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+            background-size: cover;
+            background-position: center;
+            text-align: center;
+            padding-top: 60px;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 10px rgba(0,0,0,0.8);
+        }
+
+        .version-badge {
+            background: var(--netflix-red);
+            padding: 5px 15px;
+            border-radius: 4px;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        /* Container */
+        .container {
+            max-width: 900px;
+            margin: -50px auto 50px;
+            padding: 0 20px;
+            position: relative;
+            z-index: 2;
+        }
+
+        section {
+            background: var(--card-bg);
+            padding: 30px;
+            border-radius: 8px;
+            margin-bottom: 25px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+
+        h2 {
+            border-left: 4px solid var(--netflix-red);
+            padding-left: 15px;
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+            color: var(--white);
+        }
+
+        /* App Details List */
+        .details-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .detail-item {
+            background: rgba(255,255,255,0.05);
+            padding: 15px;
+            border-radius: 5px;
+            text-align: center;
+        }
+
+        .detail-item i {
+            color: var(--netflix-red);
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+
+        .detail-item span {
+            display: block;
+            color: var(--netflix-light-grey);
+            font-size: 0.8rem;
+        }
+
+        .detail-item p {
+            font-weight: bold;
+            font-size: 1rem;
+        }
+
+        /* Warning Box */
+        .warning-box {
+            background: rgba(229, 9, 20, 0.1);
+            border: 1px solid var(--netflix-red);
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .warning-box i {
+            color: var(--netflix-red);
+            font-size: 1.5rem;
+        }
+
+        /* Privacy Policy Styles */
+        .policy-text {
+            color: var(--netflix-light-grey);
+            font-size: 0.95rem;
+            text-align: justify;
+        }
+
+        .disclaimer-box {
+            font-style: italic;
+            border-top: 1px solid #333;
+            margin-top: 20px;
+            padding-top: 20px;
+            font-size: 0.85rem;
+        }
+
+        /* Developer Card */
+        .dev-card {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .dev-info h3 {
+            color: var(--white);
+            margin-bottom: 5px;
+        }
+
+        .social-btn {
+            display: inline-block;
+            background: #1877F2; /* FB Color */
+            color: white;
+            padding: 10px 20px;
+            border-radius: 4px;
+            text-decoration: none;
+            margin-top: 10px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        .social-btn:hover {
+            opacity: 0.8;
+            transform: translateY(-2px);
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px;
+            color: var(--netflix-light-grey);
+            font-size: 0.8rem;
+        }
+
+        /* Animations */
+        section {
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @media (max-width: 600px) {
+            .hero h1 { font-size: 2rem; }
+            .details-grid { grid-template-columns: 1fr 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo">ULTRAFLIX</div>
+    </header>
+
+    <div class="hero">
+        <h1>Ultraflix TV Pro</h1>
+        <span class="version-badge">Version 1.0</span>
+    </div>
+
+    <div class="container">
+        
+        <!-- App Details Section -->
+        <section id="app-details">
+            <h2>App Details</h2>
+            <div class="details-grid">
+                <div class="detail-item">
+                    <i class="fas fa-mobile-alt"></i>
+                    <span>Platform</span>
+                    <p>Android Device</p>
+                </div>
+                <div class="detail-item">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <span>Region</span>
+                    <p>Sri Lanka Only 🇱🇰</p>
+                </div>
+                <div class="detail-item">
+                    <i class="fas fa-shield-alt"></i>
+                    <span>Security</span>
+                    <p>Verified</p>
+                </div>
+                <div class="detail-item">
+                    <i class="fas fa-tv"></i>
+                    <span>Type</span>
+                    <p>Premium IPTV</p>
+                </div>
+            </div>
+
+            <div class="warning-box">
+                <i class="fas fa-exclamation-triangle"></i>
+                <div>
+                    <strong>VPN Warning:</strong> මෙම App එක සඳහා VPN භාවිතා කළ නොහැක. (VPN Not Working)
+                </div>
+            </div>
+        </section>
+
+        <!-- Privacy Policy Section -->
+        <section id="privacy">
+            <h2>Privacy Policy</h2>
+            <div class="policy-text">
+                <p>Ultraflix TV Pro හි ඔබගේ රහස්‍යතාව ආරක්ෂා කිරීම අපගේ මූලික ඉලක්කයයි. මෙම යෙදුම මගින් ඔබගේ පෞද්ගලික දත්ත අනවශ්‍ය ලෙස රැස් කිරීම සිදු නොකරන බව සහතික කරමු.</p>
+                
+                <div class="disclaimer-box">
+                    <strong>DISCLAIMER:</strong><br>
+                    අපගේ වේදිකාව හුදෙක් තෙවන පාර්ශවයන්ගේ සේවාදායකයන් මත පිහිටා ඇති ශ්‍රව්‍ය දෘශ්‍ය අන්තර්ගතයන්ට සබැඳි (Links) පෙන්වීම පමණක් සිදු කරයි. අපි කිසිදු වීඩියෝවක් අපගේ සේවාදායකයන් තුළ ගබඩා නොකරමු. අන්තර්ගතයේ අයිතිය මුල් හිමිකරුවන් සතු වේ. මෙය අධ්‍යාපනික ව්‍යාපෘතියක් පමණක් වන අතර විකිණීම සඳහා නොවේ.
+                </div>
+            </div>
+        </section>
+
+        <!-- Created Info Section -->
+        <section id="created-info">
+            <h2>Created Info</h2>
+            <div class="dev-card">
+                <div class="dev-info">
+                    <h3>SPK MODs</h3>
+                    <p style="color: var(--netflix-light-grey);">Lead Developer & Designer</p>
+                    <p style="margin-top: 10px; font-size: 0.9rem;">ඔබට කිසියම් ගැටළුවක් ඇත්නම් පහත Facebook පිටුව හරහා අප හා සම්බන්ධ වන්න.</p>
+                    <a href="https://www.facebook.com/saman2200" class="social-btn" target="_blank">
+                        <i class="fab fa-facebook"></i> MOD APPs - android device
+                    </a>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <footer>
+        &copy; 2026 Ultraflix TV Pro | Developed by SPK MODs<br>
+        Designed for Sri Lankan Android Users
+    </footer>
+
+</body>
+</html>
